@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaazhinijb
+- 🎀 Hi, I’m @yaazhinijb
 - 👀 Java, Python, Kotlin, SQL, MERN stack
 - 🌱 I’m currently learning Full-stack Web Development, looking forward to start Android Development.
 - 📫 LinkedIn: https://www.linkedin.com/in/yaazhini-jayabalan-717331ba
