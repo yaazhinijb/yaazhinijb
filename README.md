@@ -1,8 +1,11 @@
-- 🎀 Hi, I’m @yaazhinijb
-- 👀 Java, Python, Kotlin, SQL, R-Programming
-- 🌱 Tale to me about, Android, Jetpack Compose...
+- 🎀 Yaazhini Jayabalan
+- 🧁 Talk to me about- Jetpack Compose🚀 | Java | Kotlin
+- 🧩 Android Developer
 - 📫 LinkedIn: https://www.linkedin.com/in/yaazhini-jayabalan-717331ba
-                          Mail: poppyyazhu@gmail.com
+- 🤝🏻 Developers Profile: https://g.dev/yaazhinijayabalan
+                      
+                      
+                      
 
 <!---
 yaazhinijb/yaazhinijb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
