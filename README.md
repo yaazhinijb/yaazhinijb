@@ -2,8 +2,8 @@
 - 🧁 Talk to me about- Jetpack Compose🚀 | Java ☕ | Kotlin 💜 | Next.js 🧑🏻‍💻 | Spring ☘️ and DevOps sometimes (wink) 
 - 🧩 Android Developer
 - 🌐 Web Full-stack developer 
-- 📫 LinkedIn: https://www.linkedin.com/in/yaazhini-jayabalan-717331ba
-- 🤝🏻 Developers Profile: https://g.dev/yaazhinijayabalan
+- 📫 Mail: yaazhinijb@gmail.com
+
                       
                       
                       
